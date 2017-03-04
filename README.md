@@ -1,4 +1,6 @@
 #homebridge-pc-volume
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JosephDuffy/homebridge-pc-volume.svg)](https://greenkeeper.io/)
 --
 
 homebridge-pc-volume is a Homebridge plugin that adds a support for changing a computer's volume using HomeKit and Siri.
